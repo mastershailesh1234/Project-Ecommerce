@@ -1,0 +1,14 @@
+Tasks
+
+Product Page(HTML AND CSS)
+Sagar: Footer (Flex box and media query)
+Sumit: Header (including js--> var store input)
+Shailesh: Body 
+All: Image Gallery box
+
+Category Page(HTML AND CSS AND JS)
+Sagar: Call API and fetch data for the category(JS)
+Sumit: Card Gallry (Responsive)
+Shailesh: Card(HTML,CSS)
+
+Lets decide Home page at last
